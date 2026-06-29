@@ -1,0 +1,32 @@
+# Archivos de entorno y credenciales
+.env
+
+# Archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Archivos de editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Archivos de datos (opcional, si no quieres subir el Excel)
+# data/*.xlsx
+# data/*.xls
+
+# Archivos de logs
+*.log
+
+# Archivos de base de datos locales
+*.db
+*.sqlite
